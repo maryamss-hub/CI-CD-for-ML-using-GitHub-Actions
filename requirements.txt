@@ -1,6 +1,6 @@
-pandas
-numpy
-scikit-learn
-joblib
-flask
-pytest
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+flask==3.0.3
+pytest==8.2.0
+joblib==1.4.2
